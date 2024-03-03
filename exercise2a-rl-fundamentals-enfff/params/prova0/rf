@@ -1,0 +1,1 @@
+reward = 1*np.exp( -8*(np.abs(state[0]))) + 0.25*np.exp(-1*np.abs(state[2]))  + 2.25*np.exp(-1*np.abs(1/state[1]))

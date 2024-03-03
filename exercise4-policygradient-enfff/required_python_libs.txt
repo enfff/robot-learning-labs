@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+pandas
+gym==0.21.0
+torch==2.1.0+cpu
+seaborn
+pygame
+pyglet==1.5.27
+stable-baselines3==1.6.2

@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="ekf" type="pendulum.py" name="pendulum" output="screen" />
+	<node pkg="ekf" type="sensor.py" name="sensor" output="screen" />
+	<node pkg="ekf" type="ekf_singlependulum.py" name="ekf_singlependulum" output="screen" />
+	<node pkg="rqt_plot" type="rqt_plot" output="screen" name="rqt_plot" args="/pendulum/real_system /ekf_singlependulum/estimated_system"/>
+</launch>

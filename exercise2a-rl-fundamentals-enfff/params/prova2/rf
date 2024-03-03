@@ -1,0 +1,4 @@
+        # reward = 1.5*np.exp(-1*abs(1/state[1])) + np.exp(-1*abs(state[0])) + 0.01
+        # if np.abs(state[0]) > 2.38:
+        # #     # this is for the cart to avoid going out of the screen
+        #     reward = -100 # Am I been too harsh?
