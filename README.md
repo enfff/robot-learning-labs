@@ -1,5 +1,5 @@
 # Robot Learning Laboratories
-Laboratories done during for the [Robot Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01HFNOV&p_a_acc=2024&p_header=S&p_lang=IT&multi=N) class. I wrote a report for each lab discussing the main intuitions, issues and the results.
+Labs done for the [Robot Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01HFNOV&p_a_acc=2024&p_header=S&p_lang=IT&multi=N) class. I wrote a report for each lab discussing the main intuitions, issues and the results.
 
 Brief description of the labs, and links to the sources:
 1. [**Implementation of the Extended Kalman Filter in ROS**](exercise1-ekf-enfff/Exercise1.pdf). Read the [Report](exercise1-ekf-enfff/report.pdf).
